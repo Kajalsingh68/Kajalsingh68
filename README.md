@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-## Hi there 👋
-
  <h1 align="center">Hi 👋, I'm Kajal Singh</h1>
 
 - 🔭 I’m currently working on Frontend Developer
